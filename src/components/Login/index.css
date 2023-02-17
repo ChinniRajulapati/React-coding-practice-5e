@@ -1,0 +1,9 @@
+/* Write your CSS here */
+.btn1 {
+  color: #2b2c49;
+  font-size: small;
+  padding: 10px;
+  width: 80px;
+  border-style: none;
+  border-radius: 10px;
+}
